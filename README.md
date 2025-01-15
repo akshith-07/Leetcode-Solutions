@@ -64,6 +64,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 ## Counting
 |  |
 | ------- |
@@ -73,4 +74,8 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
