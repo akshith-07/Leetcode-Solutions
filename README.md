@@ -6,6 +6,7 @@ The Problems that are solved by me in Leetcode
 ## Array
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -78,4 +79,16 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [2509-minimize-xor](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2509-minimize-xor) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
