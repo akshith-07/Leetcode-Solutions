@@ -17,6 +17,7 @@ The Problems that are solved by me in Leetcode
 | [2145-grid-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -114,6 +115,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
 | ------- |
@@ -122,4 +124,8 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+## Sorting
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
