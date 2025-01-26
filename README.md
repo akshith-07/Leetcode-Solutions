@@ -111,6 +111,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
 | ------- |
@@ -120,10 +121,12 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Sorting
 |  |
 | ------- |
