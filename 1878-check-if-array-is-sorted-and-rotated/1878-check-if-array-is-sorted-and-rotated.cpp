@@ -1,31 +1,12 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-
-        int count=0;
-
-        for(int i=0;i<nums.size()-1;i++)
-        {
-            if(nums[i]>nums[i+1])
-            {
-                count++;
-            }
+        const int n=nums.size();
+        int cntD=0;
+        for(int i=1; i<n && cntD<=1; i++){
+            if (nums[i]<nums[i-1]) cntD++;
         }
-
-        if(nums[0]<nums[nums.size()-1])
-        {
-            count++;
-        }
+        return (nums[0]>=nums.back() && cntD==1) || cntD==0;
         
-        if(count<=1)
-        {
-            return true;
-
-        }
-        else
-        {
-            return false;
-        }
     }
-
 };
