@@ -11,6 +11,7 @@ The Problems that are solved by me in Leetcode
 | [0854-making-a-large-island](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1025-minimum-cost-for-tickets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1364-tuple-with-same-product](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1876-map-of-highest-peak](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
@@ -70,6 +71,7 @@ The Problems that are solved by me in Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -83,6 +85,7 @@ The Problems that are solved by me in Leetcode
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
