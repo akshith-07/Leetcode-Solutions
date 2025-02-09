@@ -19,6 +19,7 @@ The Problems that are solved by me in Leetcode
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2448-count-number-of-bad-pairs](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -76,6 +77,7 @@ The Problems that are solved by me in Leetcode
 | [1502-construct-k-palindrome-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -92,6 +94,7 @@ The Problems that are solved by me in Leetcode
 | [1396-count-servers-that-communicate](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -177,4 +180,8 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+## Math
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
