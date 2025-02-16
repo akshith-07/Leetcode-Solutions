@@ -15,6 +15,7 @@ The Problems that are solved by me in Leetcode
 | [1396-count-servers-that-communicate](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -203,5 +204,6 @@ The Problems that are solved by me in Leetcode
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
