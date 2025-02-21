@@ -85,6 +85,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
@@ -128,6 +129,7 @@ The Problems that are solved by me in Leetcode
 | [0684-redundant-connection](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
@@ -155,6 +157,7 @@ The Problems that are solved by me in Leetcode
 | [0684-redundant-connection](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -195,6 +198,7 @@ The Problems that are solved by me in Leetcode
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
@@ -220,4 +224,12 @@ The Problems that are solved by me in Leetcode
 | [2107-find-unique-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
