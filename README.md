@@ -69,6 +69,7 @@ The Problems that are solved by me in Leetcode
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
@@ -283,4 +284,8 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
