@@ -13,6 +13,7 @@ The Problems that are solved by me in Leetcode
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1025-minimum-cost-for-tickets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -303,6 +304,7 @@ The Problems that are solved by me in Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
