@@ -6,6 +6,7 @@ The Problems that are solved by me in Leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0368-largest-divisible-subset](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -145,6 +146,7 @@ The Problems that are solved by me in Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0768-partition-labels](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
