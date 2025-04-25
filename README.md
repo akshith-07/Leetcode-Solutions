@@ -56,6 +56,7 @@ The Problems that are solved by me in Leetcode
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -125,6 +126,7 @@ The Problems that are solved by me in Leetcode
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2249-count-the-hidden-sequences) |
+| [2915-count-of-interesting-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Trie
@@ -171,6 +173,7 @@ The Problems that are solved by me in Leetcode
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
