@@ -74,6 +74,7 @@ The Problems that are solved by me in Leetcode
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3429-special-array-i) |
@@ -361,6 +362,7 @@ The Problems that are solved by me in Leetcode
 | [2888-minimum-index-of-a-valid-split](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3321-type-of-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
@@ -403,6 +405,7 @@ The Problems that are solved by me in Leetcode
 | [3001-apply-operations-to-maximize-score](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
