@@ -7,6 +7,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -179,6 +180,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -289,6 +291,7 @@ The Problems that are solved by me in Leetcode
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
