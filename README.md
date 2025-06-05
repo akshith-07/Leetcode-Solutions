@@ -127,6 +127,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0038-count-and-say](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
@@ -351,6 +352,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0684-redundant-connection](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
