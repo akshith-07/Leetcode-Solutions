@@ -177,6 +177,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
