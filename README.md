@@ -329,6 +329,7 @@ The Problems that are solved by me in Leetcode
 | [2509-minimize-xor](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -469,6 +470,7 @@ The Problems that are solved by me in Leetcode
 | [2265-partition-array-according-to-given-pivot](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
@@ -507,6 +509,7 @@ The Problems that are solved by me in Leetcode
 | [3227-find-missing-and-repeated-values](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -629,6 +632,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
