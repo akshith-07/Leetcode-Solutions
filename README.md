@@ -514,6 +514,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1500-count-largest-group) |
@@ -688,4 +689,8 @@ The Problems that are solved by me in Leetcode
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
