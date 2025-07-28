@@ -51,6 +51,7 @@ The Problems that are solved by me in Leetcode
 | [2145-grid-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -367,6 +368,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2478-longest-nice-subarray) |
@@ -585,6 +587,7 @@ The Problems that are solved by me in Leetcode
 | [1993-sum-of-all-subset-xor-totals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
@@ -684,6 +687,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
