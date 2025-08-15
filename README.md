@@ -392,6 +392,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -579,6 +580,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0231-power-of-two](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0826-soup-servings) |
@@ -748,6 +750,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0231-power-of-two](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
