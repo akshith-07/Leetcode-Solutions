@@ -8,6 +8,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0135-candy) |
@@ -285,6 +286,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0768-partition-labels) |
@@ -467,6 +469,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -657,6 +660,7 @@ The Problems that are solved by me in Leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
