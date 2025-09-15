@@ -205,6 +205,7 @@ The Problems that are solved by me in Leetcode
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -307,6 +308,7 @@ The Problems that are solved by me in Leetcode
 | [1160-letter-tile-possibilities](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
