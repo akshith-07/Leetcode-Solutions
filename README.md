@@ -29,6 +29,7 @@ The Problems that are solved by me in Leetcode
 | [0934-bitwise-ors-of-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
+| [1018-largest-perimeter-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -373,6 +374,7 @@ The Problems that are solved by me in Leetcode
 | [0611-valid-triangle-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -597,6 +599,7 @@ The Problems that are solved by me in Leetcode
 | [0594-longest-harmonious-subsequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -668,6 +671,7 @@ The Problems that are solved by me in Leetcode
 | [0830-largest-triangle-area](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
