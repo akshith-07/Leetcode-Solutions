@@ -210,6 +210,7 @@ The Problems that are solved by me in Leetcode
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -261,6 +262,7 @@ The Problems that are solved by me in Leetcode
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -487,6 +489,7 @@ The Problems that are solved by me in Leetcode
 | [2509-minimize-xor](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -972,5 +975,6 @@ The Problems that are solved by me in Leetcode
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
