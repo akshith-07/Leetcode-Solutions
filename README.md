@@ -511,6 +511,7 @@ The Problems that are solved by me in Leetcode
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Breadth-First Search
@@ -787,6 +788,7 @@ The Problems that are solved by me in Leetcode
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
