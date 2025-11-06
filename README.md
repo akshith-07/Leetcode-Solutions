@@ -189,6 +189,7 @@ The Problems that are solved by me in Leetcode
 | [3791-fruits-into-baskets-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -420,6 +421,7 @@ The Problems that are solved by me in Leetcode
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3863-power-grid-maintenance](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -554,6 +556,7 @@ The Problems that are solved by me in Leetcode
 | [2793-count-the-number-of-complete-components](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -576,6 +579,7 @@ The Problems that are solved by me in Leetcode
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3863-power-grid-maintenance](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -629,6 +633,7 @@ The Problems that are solved by me in Leetcode
 | [2793-count-the-number-of-complete-components](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
@@ -643,6 +648,7 @@ The Problems that are solved by me in Leetcode
 | [2793-count-the-number-of-complete-components](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3863-power-grid-maintenance](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -661,6 +667,7 @@ The Problems that are solved by me in Leetcode
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -751,6 +758,7 @@ The Problems that are solved by me in Leetcode
 | [2434-design-a-number-container-system](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3863-power-grid-maintenance](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
 | ------- |
