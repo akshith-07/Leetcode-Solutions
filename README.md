@@ -34,6 +34,7 @@ The Problems that are solved by me in Leetcode
 | [0940-fruit-into-baskets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -545,6 +546,7 @@ The Problems that are solved by me in Leetcode
 | [0231-power-of-two](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
