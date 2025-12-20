@@ -32,6 +32,7 @@ The Problems that are solved by me in Leetcode
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -283,6 +284,7 @@ The Problems that are solved by me in Leetcode
 | [0166-fraction-to-recurring-decimal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0768-partition-labels](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0944-delete-columns-to-make-sorted](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
