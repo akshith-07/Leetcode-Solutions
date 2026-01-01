@@ -9,6 +9,7 @@ The Problems that are solved by me in Leetcode
 | [0001-two-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0120-triangle) |
@@ -895,6 +896,7 @@ The Problems that are solved by me in Leetcode
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0326-power-of-three) |
