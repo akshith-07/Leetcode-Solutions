@@ -51,6 +51,7 @@ The Problems that are solved by me in Leetcode
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -914,6 +915,7 @@ The Problems that are solved by me in Leetcode
 | [0900-reordered-power-of-2](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
