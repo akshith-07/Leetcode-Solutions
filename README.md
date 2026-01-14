@@ -185,6 +185,7 @@ The Problems that are solved by me in Leetcode
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1126,6 +1127,7 @@ The Problems that are solved by me in Leetcode
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3643-zero-array-transformation-ii) |
@@ -1202,6 +1204,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3454-separate-squares-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
@@ -1257,4 +1260,8 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
