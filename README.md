@@ -174,6 +174,7 @@ The Problems that are solved by me in Leetcode
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -647,6 +648,7 @@ The Problems that are solved by me in Leetcode
 | [2529-range-product-queries-of-powers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
