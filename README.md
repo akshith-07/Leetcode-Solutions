@@ -717,6 +717,7 @@ The Problems that are solved by me in Leetcode
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3863-power-grid-maintenance](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
@@ -1166,6 +1167,7 @@ The Problems that are solved by me in Leetcode
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1291,4 +1293,8 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
