@@ -25,6 +25,7 @@ The Problems that are solved by me in Leetcode
 | [0611-valid-triangle-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
@@ -1135,6 +1136,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
