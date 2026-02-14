@@ -263,6 +263,7 @@ The Problems that are solved by me in Leetcode
 | [0474-ones-and-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0867-new-21-game) |
