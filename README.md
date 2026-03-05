@@ -356,6 +356,7 @@ The Problems that are solved by me in Leetcode
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
