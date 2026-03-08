@@ -90,6 +90,7 @@ The Problems that are solved by me in Leetcode
 | [1917-maximum-average-pass-ratio](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
@@ -364,6 +365,7 @@ The Problems that are solved by me in Leetcode
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
@@ -513,6 +515,7 @@ The Problems that are solved by me in Leetcode
 | [1834-minimum-number-of-people-to-teach](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
@@ -1105,6 +1108,7 @@ The Problems that are solved by me in Leetcode
 | [1160-letter-tile-possibilities](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1980-find-unique-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
