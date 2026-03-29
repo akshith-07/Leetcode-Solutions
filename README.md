@@ -404,6 +404,7 @@ The Problems that are solved by me in Leetcode
 | [2483-minimum-penalty-for-a-shop](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
