@@ -389,6 +389,7 @@ The Problems that are solved by me in Leetcode
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1025,6 +1026,7 @@ The Problems that are solved by me in Leetcode
 | [1642-water-bottles](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
