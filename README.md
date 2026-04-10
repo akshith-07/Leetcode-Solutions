@@ -261,6 +261,7 @@ The Problems that are solved by me in Leetcode
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -614,6 +615,7 @@ The Problems that are solved by me in Leetcode
 | [3713-longest-balanced-substring-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
