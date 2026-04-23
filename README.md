@@ -157,6 +157,7 @@ The Problems that are solved by me in Leetcode
 | [2573-find-the-string-with-lcp](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -478,6 +479,7 @@ The Problems that are solved by me in Leetcode
 | [2249-count-the-hidden-sequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
@@ -591,6 +593,7 @@ The Problems that are solved by me in Leetcode
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2615-sum-of-distances](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
