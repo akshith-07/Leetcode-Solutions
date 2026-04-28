@@ -103,6 +103,7 @@ The Problems that are solved by me in Leetcode
 | [1993-sum-of-all-subset-xor-totals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -886,6 +887,7 @@ The Problems that are solved by me in Leetcode
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2145-grid-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1013,6 +1015,7 @@ The Problems that are solved by me in Leetcode
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1160,6 +1163,7 @@ The Problems that are solved by me in Leetcode
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
