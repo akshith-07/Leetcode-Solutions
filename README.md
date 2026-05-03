@@ -385,6 +385,7 @@ The Problems that are solved by me in Leetcode
 | [0756-pyramid-transition-matrix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -538,6 +539,7 @@ The Problems that are solved by me in Leetcode
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
