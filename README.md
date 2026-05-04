@@ -9,6 +9,7 @@ The Problems that are solved by me in Leetcode
 | [0001-two-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -874,6 +875,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0036-valid-sudoku](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -1139,6 +1141,7 @@ The Problems that are solved by me in Leetcode
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
