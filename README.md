@@ -1300,6 +1300,7 @@ The Problems that are solved by me in Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0611-valid-triangle-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0768-partition-labels) |
@@ -1496,6 +1497,7 @@ The Problems that are solved by me in Leetcode
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
