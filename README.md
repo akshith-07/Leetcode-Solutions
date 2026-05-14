@@ -180,6 +180,7 @@ The Problems that are solved by me in Leetcode
 | [2751-robot-collisions](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2906-construct-product-matrix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
@@ -625,6 +626,7 @@ The Problems that are solved by me in Leetcode
 | [2685-first-completely-painted-row-or-column](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2784-check-if-array-is-good](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -1060,6 +1062,7 @@ The Problems that are solved by me in Leetcode
 | [2681-put-marbles-in-bags](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
