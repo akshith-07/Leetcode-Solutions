@@ -163,6 +163,7 @@ The Problems that are solved by me in Leetcode
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2540-minimum-common-value](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -625,6 +626,7 @@ The Problems that are solved by me in Leetcode
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1337,6 +1339,7 @@ The Problems that are solved by me in Leetcode
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -1405,6 +1408,7 @@ The Problems that are solved by me in Leetcode
 | [2280-count-good-triplets-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2540-minimum-common-value](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
