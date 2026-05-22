@@ -7,6 +7,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0048-rotate-image) |
@@ -1395,6 +1396,7 @@ The Problems that are solved by me in Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0611-valid-triangle-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
