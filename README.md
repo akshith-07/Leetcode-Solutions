@@ -471,6 +471,7 @@ The Problems that are solved by me in Leetcode
 | [2976-minimum-cost-to-convert-string-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
@@ -652,6 +653,7 @@ The Problems that are solved by me in Leetcode
 | [2915-count-of-interesting-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
