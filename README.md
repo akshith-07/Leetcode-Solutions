@@ -209,6 +209,7 @@ The Problems that are solved by me in Leetcode
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3161-block-placement-queries](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
@@ -1438,6 +1439,7 @@ The Problems that are solved by me in Leetcode
 | [2665-minimum-time-to-repair-cars](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3161-block-placement-queries](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
@@ -1525,11 +1527,13 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
