@@ -97,6 +97,7 @@ The Problems that are solved by me in Leetcode
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -741,6 +742,7 @@ The Problems that are solved by me in Leetcode
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
@@ -1103,6 +1105,7 @@ The Problems that are solved by me in Leetcode
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1833-maximum-ice-cream-bars](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1684,4 +1687,8 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
