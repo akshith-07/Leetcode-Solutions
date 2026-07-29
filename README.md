@@ -512,6 +512,7 @@ The Problems that are solved by me in Leetcode
 | [3499-maximize-active-section-with-trade-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -700,6 +701,7 @@ The Problems that are solved by me in Leetcode
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3531-count-covered-buildings) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -823,6 +825,7 @@ The Problems that are solved by me in Leetcode
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3583-count-special-triplets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1325,6 +1328,7 @@ The Problems that are solved by me in Leetcode
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -1555,6 +1559,7 @@ The Problems that are solved by me in Leetcode
 | [1993-sum-of-all-subset-xor-totals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
