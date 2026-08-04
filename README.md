@@ -313,6 +313,7 @@ The Problems that are solved by me in Leetcode
 | [3689-maximum-total-subarray-value-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -729,6 +730,7 @@ The Problems that are solved by me in Leetcode
 | [3713-longest-balanced-substring-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1188,6 +1190,7 @@ The Problems that are solved by me in Leetcode
 | [3647-zero-array-transformation-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
