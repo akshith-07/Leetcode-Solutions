@@ -55,6 +55,7 @@ The Problems that are solved by me in Leetcode
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -358,6 +359,7 @@ The Problems that are solved by me in Leetcode
 | [1025-minimum-cost-for-tickets](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -546,6 +548,7 @@ The Problems that are solved by me in Leetcode
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1292,6 +1295,7 @@ The Problems that are solved by me in Leetcode
 | [0900-reordered-power-of-2](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1390-four-divisors) |
@@ -1708,6 +1712,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0486-predict-the-winner](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
@@ -1755,9 +1760,11 @@ The Problems that are solved by me in Leetcode
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
