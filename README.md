@@ -208,6 +208,7 @@ The Problems that are solved by me in Leetcode
 | [2906-construct-product-matrix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -703,6 +704,7 @@ The Problems that are solved by me in Leetcode
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1508,6 +1510,7 @@ The Problems that are solved by me in Leetcode
 | [2618-maximize-the-minimum-powered-city](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
