@@ -480,6 +480,7 @@ The Problems that are solved by me in Leetcode
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1927-sum-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -790,6 +791,7 @@ The Problems that are solved by me in Leetcode
 | [1833-maximum-ice-cream-bars](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -1344,6 +1346,7 @@ The Problems that are solved by me in Leetcode
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1751,6 +1754,7 @@ The Problems that are solved by me in Leetcode
 | [1140-stone-game-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
