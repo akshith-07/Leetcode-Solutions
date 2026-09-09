@@ -1419,6 +1419,7 @@ The Problems that are solved by me in Leetcode
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3871-count-commas-in-range-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Data Stream
 |  |
 | ------- |
