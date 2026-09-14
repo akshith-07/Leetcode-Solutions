@@ -1328,6 +1328,7 @@ The Problems that are solved by me in Leetcode
 | [0797-rabbits-in-forest](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -1758,6 +1759,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
