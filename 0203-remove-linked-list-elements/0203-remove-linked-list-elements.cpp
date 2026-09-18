@@ -24,7 +24,7 @@ public:
         if(temp==nullptr){
             return temp;
         }else{
-            while(temp->next!=nullptr || temp == nullptr){
+            while(temp->next!=nullptr){
                 if(temp->next->val ==val){
                     temp->next=temp->next->next;
                 }else{
@@ -35,7 +35,6 @@ public:
         }
 
         return output;
-
         
     }
 };
