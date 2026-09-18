@@ -1515,6 +1515,7 @@ The Problems that are solved by me in Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0611-valid-triangle-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -1754,6 +1755,7 @@ The Problems that are solved by me in Leetcode
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
