@@ -15,18 +15,38 @@ public:
         if(head==nullptr || head->next == nullptr){
             return head;
         }
-        ListNode* odd = head;
-        ListNode* oddHead = odd;
-        ListNode* even = head->next;
-        ListNode* evenHead = even;
-        while(even!=nullptr && even->next!=nullptr){
-            odd->next = even->next;
-            odd = odd->next;
-            even->next = odd->next;
-            even = even->next;
+        
+        ListNode* oddHead = nullptr;
+        ListNode* oddTail = nullptr;
+        ListNode* evenHead = nullptr;
+        ListNode* evenTail = nullptr;
+        ListNode* temp = head;
+        int count = 1;
+        while(temp!=nullptr){
+            ListNode* newNode = new ListNode(temp->val);
+            if(count%2 == 1){
+               if(oddHead==nullptr){
+                    oddHead = newNode;
+                    oddTail = newNode;
+               }else{
+                    oddTail->next = newNode;
+                    oddTail = newNode;
+               }
+            }else{
+                if(evenHead==nullptr){
+                    evenHead = newNode;
+                    evenTail = newNode;
+                }else{
+                    evenTail->next = newNode;
+                    evenTail = newNode;
+                }
+            }
+            count++;
+            temp=temp->next;
         }
 
-        odd->next = evenHead;  
+        oddTail->next = evenHead;
+
         return oddHead;
         
     }
