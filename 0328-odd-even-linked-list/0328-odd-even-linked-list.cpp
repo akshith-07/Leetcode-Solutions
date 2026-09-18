@@ -19,7 +19,7 @@ public:
         ListNode* oddHead = odd;
         ListNode* even = head->next;
         ListNode* evenHead = even;
-        while(odd!=nullptr && odd->next!=nullptr && even!=nullptr && even->next!=nullptr){
+        while(even!=nullptr && even->next!=nullptr){
             odd->next = even->next;
             odd = odd->next;
             even->next = odd->next;
