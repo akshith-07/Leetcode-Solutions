@@ -477,6 +477,7 @@ The Problems that are solved by me in Leetcode
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -688,6 +689,7 @@ The Problems that are solved by me in Leetcode
 | [1500-count-largest-group](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -796,6 +798,7 @@ The Problems that are solved by me in Leetcode
 | [1448-maximum-69-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -1184,6 +1187,7 @@ The Problems that are solved by me in Leetcode
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1833-maximum-ice-cream-bars](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1840-maximum-building-height) |
