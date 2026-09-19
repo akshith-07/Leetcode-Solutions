@@ -19,17 +19,14 @@ public:
             if(l1!=nullptr && l2!=nullptr){
                 carry = l1->val + l2->val + carry;
                 newNode = new ListNode(carry%10);
-                cout<<newNode->val<<" ";
                 carry = carry/10;
             }else if(l1==nullptr && l2!=nullptr){
                 carry = l2->val + carry;
                 newNode = new ListNode(carry%10);
-                cout<<newNode->val<<" ";
                 carry = carry/10;
             }else if(l1!=nullptr && l2==nullptr){
                 carry = l1->val + carry;
                 newNode = new ListNode(carry%10);
-                cout<<newNode->val<<" ";
                 carry = carry/10;
             }
         
