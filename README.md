@@ -1324,6 +1324,7 @@ The Problems that are solved by me in Leetcode
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0067-add-binary) |
@@ -1706,6 +1707,7 @@ The Problems that are solved by me in Leetcode
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0326-power-of-three) |
@@ -1755,6 +1757,7 @@ The Problems that are solved by me in Leetcode
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
