@@ -16,34 +16,38 @@ public:
 
         ListNode* temp = mergedList;
 
-        while(list1!=nullptr || list2 != nullptr){
-            ListNode* newNode;
-            if(list1!=nullptr && list2!=nullptr){
-                if(list1->val == list2->val){
-                    newNode = new ListNode(list1->val);
-                    temp->next = newNode;
-                    list1= list1->next;
-                }else if(list1->val < list2->val){
-                    newNode = new ListNode(list1->val);
-                    temp->next = newNode;
-                    list1=list1->next;
-                }else if(list1->val > list2->val){
-                    newNode = new ListNode(list2->val);
-                    temp->next = newNode;
-                    list2=list2->next;
-                }
-            }else if(list1!=nullptr && list2==nullptr){
+        ListNode* newNode;
+
+        while(list1!=nullptr && list2 != nullptr){
+        
+            if(list1->val == list2->val){
                 newNode = new ListNode(list1->val);
                 temp->next = newNode;
-                list1 = list1->next;
-            }else if(list1==nullptr && list2!=nullptr){
+                list1= list1->next;
+            }else if(list1->val < list2->val){
+                newNode = new ListNode(list1->val);
+                temp->next = newNode;
+                list1=list1->next;
+            }else if(list1->val > list2->val){
                 newNode = new ListNode(list2->val);
                 temp->next = newNode;
-                list2 = list2->next;
+                list2=list2->next;
             }
-
             temp = temp->next;
         }
+
+        while(list1!=nullptr){
+            newNode = new ListNode(list1->val);
+            temp->next = newNode;
+            list1 = list1->next;
+            temp=temp->next;
+        }
+        while(list2!=nullptr){
+            newNode = new ListNode(list2->val);
+            temp->next = newNode;
+            list2 = list2->next;
+            temp=temp->next;
+        }   
 
     return mergedList->next;
         
