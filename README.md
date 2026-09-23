@@ -455,6 +455,7 @@ The Problems that are solved by me in Leetcode
 | [0067-add-binary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0541-reverse-string-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1525,6 +1526,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0541-reverse-string-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0768-partition-labels) |
