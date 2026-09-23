@@ -7,6 +7,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
@@ -452,6 +453,7 @@ The Problems that are solved by me in Leetcode
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -635,6 +637,7 @@ The Problems that are solved by me in Leetcode
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
