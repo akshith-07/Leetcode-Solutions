@@ -454,6 +454,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0038-count-and-say](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0541-reverse-string-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -1529,6 +1530,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
