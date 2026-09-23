@@ -23,30 +23,22 @@ public:
         string dummy="";
         int kk = 2*k;
         string output="";
-        int dummyLength = 0;
         for(int i=0;i<n;i++){
-
-            if(dummyLength==kk){
+            if(dummy.length()==kk){
                 output+= reversefirstk(dummy , k);
                 dummy = "";
-                dummyLength=0;
             } 
             dummy += s[i];
-            dummyLength++;
         }
 
-        if(dummyLength<k){
-            output+= reverseAll(dummy);
-        }
+        if(!dummy.empty()){
+            if(dummy.length()<k){
+                output+= reverseAll(dummy);
+            }else{
+                output+= reversefirstk(dummy , k);
+            }
 
-        if(dummyLength == kk){
-            output+= reversefirstk(dummy , k);
         }
-
-        if(dummyLength< kk && dummyLength>=k){
-            output+= reversefirstk(dummy , k);
-        }
-
         return output;
 
 
