@@ -15,10 +15,6 @@ public:
         return true;
     }
     bool isPalindrome(string s) {
-        if(s==" "){
-            return true;
-        }
-
         string str = "";
         int n = s.length();
         int i=0;
@@ -26,7 +22,7 @@ public:
             if(s[i]>='A' && s[i]<='Z'){
                 char temp = s[i]+('a'-'A');
                 str += temp;
-            }else if(s[i]>='a' && s[i]<='z'|| s[i]>='0' && s[i]<='9'){
+            }else if((s[i]>='a' && s[i]<='z')|| (s[i]>='0' && s[i]<='9')){
                 str += s[i];
             }
             i++;
