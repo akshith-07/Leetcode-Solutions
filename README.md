@@ -455,6 +455,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
