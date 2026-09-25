@@ -473,6 +473,7 @@ The Problems that are solved by me in Leetcode
 | [0768-partition-labels](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -814,6 +815,7 @@ The Problems that are solved by me in Leetcode
 | [0759-set-intersection-size-at-least-two](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -926,6 +928,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1916,4 +1919,8 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
