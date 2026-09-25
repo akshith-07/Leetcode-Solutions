@@ -461,6 +461,7 @@ The Problems that are solved by me in Leetcode
 | [0067-add-binary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0205-isomorphic-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0541-reverse-string-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -678,6 +679,7 @@ The Problems that are solved by me in Leetcode
 | [0037-sudoku-solver](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0205-isomorphic-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
