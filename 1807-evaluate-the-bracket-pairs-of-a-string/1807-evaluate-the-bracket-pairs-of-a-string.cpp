@@ -1,41 +1,37 @@
 class Solution {
 public:
-    string findValue(const string &charKey ,unordered_map<string , string> &umap){
-        auto it= umap.find(charKey);
-        if(it!=umap.end()){
-            return it->second;
-        }
-        return "?";
-    }
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        string output = "";
-        int n = s.length();
-        bool foundKey = false;
-        string charKey = "";
-        unordered_map<string,string> umap;
 
-        for(auto it:knowledge){
-            umap[it[0]]=it[1];
+        unordered_map<string, string> mp;
+
+        for (const auto& it : knowledge) {
+            mp.emplace(it[0], it[1]);
         }
-        for(int i=0;i<n;i++){
-            if(s[i]=='('){
-                foundKey = true;
+
+        string ans;
+        ans.reserve(s.size());
+
+        for (int i = 0; i < s.size(); i++) {
+
+            if (s[i] != '(') {
+                ans += s[i];
                 continue;
             }
-            if(foundKey){
-                if(s[i]==')'){
-                    output += findValue(charKey , umap);
-                    foundKey=false;
-                    charKey="";
-                }else{
-                    charKey += s[i];
-                }     
-            }else{
-                output+=s[i];
+
+            string key;
+
+            while (s[++i] != ')') {
+                key += s[i];
             }
 
+            auto it = mp.find(key);
+
+            if (it != mp.end())
+                ans += it->second;
+            else
+                ans += '?';
         }
 
-        return output;
+        return ans;
     }
 };
