@@ -1,9 +1,10 @@
 class Solution {
 public:
-    string findValue(string charKey ,unordered_map<string , string> &umap){
-       if(umap.count(charKey)){
-            return umap[charKey];
-       }
+    string findValue(const string &charKey ,unordered_map<string , string> &umap){
+        auto it= umap.find(charKey);
+        if(it!=umap.end()){
+            return it->second;
+        }
         return "?";
     }
     string evaluate(string s, vector<vector<string>>& knowledge) {
