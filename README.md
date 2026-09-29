@@ -506,6 +506,7 @@ The Problems that are solved by me in Leetcode
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -725,6 +726,7 @@ The Problems that are solved by me in Leetcode
 | [1612-avoid-flood-in-the-city](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -907,6 +909,7 @@ The Problems that are solved by me in Leetcode
 | [1396-count-servers-that-communicate](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2029-stone-game-ix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
