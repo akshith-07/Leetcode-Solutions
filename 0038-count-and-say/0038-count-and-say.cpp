@@ -1,30 +1,30 @@
 class Solution {
 public:
-    string RLE(string s){
+    string compression(string str, int n){
+        if(n==1){
+            return str;
+        }
+
         string temp="";
-        int n = s.length();
+        int length = str.length();
         int r=0;
-        while(r<n){
+        while(r<length){
             int count=1;
-            while(s[r]==s[r+1]){
+            while(str[r]==str[r+1]){
                 r++;
                 count++;
             }
-            string concat = to_string(count) + s[r];
+            string concat = to_string(count) + str[r];
             temp+=concat;
             r++;
         }
+        cout<<temp<<" ";
+        return compression(temp , n-1); 
 
-        return temp;
     }
+
     string countAndSay(int n) {
-
-        string compression = "1";
-        for(int i=1;i<n;i++){
-            compression = RLE(compression);
-        }   
-
-        return compression;
-
+        return compression("1", n);
     }
+       
 };
