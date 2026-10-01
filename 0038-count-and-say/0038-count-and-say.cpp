@@ -1,27 +1,30 @@
 class Solution {
 public:
-    string countAndSay(int n) {
-        string res = "1";
-        helper(1, n, res);
-        return res;
-    }
-
-    void helper(int ind, int n, string& res) {
-        if (ind >= n)
-            return;
-        string prev_val = res;
-        res = "";
-        int left = 0, count = 0;
-        for (int right = 0; right < prev_val.size(); right++) {
-            if (prev_val[left] != prev_val[right]) {
-                res += to_string(count) + prev_val[left];
-                left = right;
-                count = 1;
-            } else {
+    string RLE(string s){
+        string temp="";
+        int n = s.length();
+        int r=0;
+        while(r<n){
+            int count=1;
+            while(s[r]==s[r+1]){
+                r++;
                 count++;
             }
+            string concat = to_string(count) + s[r];
+            temp+=concat;
+            r++;
         }
-        res += to_string(count) + prev_val[left];
-        return helper(ind + 1, n, res);
+
+        return temp;
+    }
+    string countAndSay(int n) {
+
+        string compression = "1";
+        for(int i=1;i<n;i++){
+            compression = RLE(compression);
+        }   
+
+        return compression;
+
     }
 };
