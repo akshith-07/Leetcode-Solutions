@@ -360,6 +360,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0120-triangle) |
@@ -462,6 +463,7 @@ The Problems that are solved by me in Leetcode
 | [0014-longest-common-prefix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0067-add-binary) |
@@ -943,6 +945,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1947,6 +1950,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
