@@ -485,6 +485,7 @@ The Problems that are solved by me in Leetcode
 | [0768-partition-labels](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -952,6 +953,7 @@ The Problems that are solved by me in Leetcode
 | [0085-maximal-rectangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1956,6 +1958,7 @@ The Problems that are solved by me in Leetcode
 | [0022-generate-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
