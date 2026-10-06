@@ -478,6 +478,7 @@ The Problems that are solved by me in Leetcode
 | [0541-reverse-string-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
@@ -681,6 +682,7 @@ The Problems that are solved by me in Leetcode
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -1969,4 +1971,16 @@ The Problems that are solved by me in Leetcode
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
