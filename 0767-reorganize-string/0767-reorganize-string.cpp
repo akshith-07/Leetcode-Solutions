@@ -11,8 +11,12 @@ public:
         for(auto it:s){
             charArr[it-'a']++;
         }
+        
         for(int i=0;i<charArr.size();i++){
-            maxHeap.push({charArr[i], i});
+            if(charArr[i]> ((n+1)/2)) 
+                return "";
+            if(charArr[i]>0)
+                maxHeap.push({charArr[i], i});
         }
         int index = 0;
         while(!maxHeap.empty()){
