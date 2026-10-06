@@ -33,9 +33,6 @@ public:
         }
 
         for(int i=0;i<n;i++){
-            if(i+1<n && stringArr[i]==stringArr[i+1]){
-                return "";
-            }
             ans+=stringArr[i]+'a';
         }
 
