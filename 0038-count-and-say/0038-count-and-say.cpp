@@ -18,6 +18,7 @@ public:
             temp+=concat;
             r++;
         }
+        cout<<temp<<" ";
         return compression(temp , n-1); 
 
     }
