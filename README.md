@@ -18,6 +18,7 @@ The Problems that are solved by me in Leetcode
 | [0118-pascals-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0368-largest-divisible-subset](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
@@ -958,6 +959,7 @@ The Problems that are solved by me in Leetcode
 | [0020-valid-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -1407,6 +1409,7 @@ The Problems that are solved by me in Leetcode
 | [0048-rotate-image](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0326-power-of-three) |
