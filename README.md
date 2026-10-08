@@ -28,6 +28,7 @@ The Problems that are solved by me in Leetcode
 | [0417-pacific-atlantic-water-flow](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -705,6 +706,7 @@ The Problems that are solved by me in Leetcode
 | [0166-fraction-to-recurring-decimal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0756-pyramid-transition-matrix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0767-reorganize-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0767-reorganize-string) |
@@ -964,6 +966,7 @@ The Problems that are solved by me in Leetcode
 | [0225-implement-stack-using-queues](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1751,6 +1754,7 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
