@@ -2,18 +2,22 @@ class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
         unordered_map<int, int> umap;
+        stack<int> st;
+        vector<int> ans;
         for(int i=0;i<nums2.size();i++){
-            int max =-1;
-            for(int j=i+1;j<nums2.size();j++){
-                if(nums2[j]>nums2[i]){
-                    max = nums2[j];
-                    break;
-                }
+            while(!st.empty() && nums2[i]>st.top()){
+                umap[st.top()] = nums2[i];
+                st.pop();
             }
-            umap[nums2[i]]=max;
+
+            st.push(nums2[i]);
         }
 
-        vector<int>ans;
+        while(!st.empty()){
+            umap[st.top()] = -1;
+            st.pop(); 
+        }
+
         for(int i=0;i<nums1.size();i++){
             ans.push_back(umap[nums1[i]]);
         }
