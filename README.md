@@ -216,6 +216,7 @@ The Problems that are solved by me in Leetcode
 | [2751-robot-collisions](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2751-robot-collisions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -1795,6 +1796,7 @@ The Problems that are solved by me in Leetcode
 | [2174-next-greater-numerically-balanced-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
