@@ -11,7 +11,9 @@ public:
                 answer[st.top()]=nums[index];
                 st.pop();
             }
-            st.push(index);
+            if(i<n){
+                st.push(index);
+            }    
         }
         return answer;      
     }
