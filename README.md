@@ -30,6 +30,7 @@ The Problems that are solved by me in Leetcode
 | [0486-predict-the-winner](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0679-24-game) |
@@ -976,6 +977,7 @@ The Problems that are solved by me in Leetcode
 | [0232-implement-queue-using-stacks](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
@@ -1770,6 +1772,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0085-maximal-rectangle](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1628-count-submatrices-with-all-ones](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
