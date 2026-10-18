@@ -94,6 +94,7 @@ The Problems that are solved by me in Leetcode
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -406,6 +407,7 @@ The Problems that are solved by me in Leetcode
 | [1458-max-dot-product-of-two-subsequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1474,6 +1476,7 @@ The Problems that are solved by me in Leetcode
 | [1510-stone-game-iv](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1599,6 +1602,7 @@ The Problems that are solved by me in Leetcode
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1620,6 +1624,7 @@ The Problems that are solved by me in Leetcode
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
@@ -1629,6 +1634,7 @@ The Problems that are solved by me in Leetcode
 | [0761-special-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2280-count-good-triplets-in-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -1793,6 +1799,7 @@ The Problems that are solved by me in Leetcode
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -1889,6 +1896,7 @@ The Problems that are solved by me in Leetcode
 ## Memoization
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -1971,11 +1979,13 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -2038,4 +2048,8 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
