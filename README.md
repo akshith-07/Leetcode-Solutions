@@ -369,6 +369,7 @@ The Problems that are solved by me in Leetcode
 | [3838-weighted-word-mapping](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
+| [3886-sum-of-sortable-integers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1360,6 +1361,7 @@ The Problems that are solved by me in Leetcode
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3731-find-missing-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3886-sum-of-sortable-integers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -1565,6 +1567,7 @@ The Problems that are solved by me in Leetcode
 | [3783-mirror-distance-of-an-integer](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3871-count-commas-in-range-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Data Stream
 |  |
 | ------- |
@@ -1846,6 +1849,7 @@ The Problems that are solved by me in Leetcode
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3886-sum-of-sortable-integers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
