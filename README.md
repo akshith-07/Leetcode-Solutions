@@ -370,6 +370,7 @@ The Problems that are solved by me in Leetcode
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3886-sum-of-sortable-integers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
