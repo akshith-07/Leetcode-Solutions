@@ -347,6 +347,7 @@ The Problems that are solved by me in Leetcode
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3660-jump-game-ix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -474,6 +475,7 @@ The Problems that are solved by me in Leetcode
 | [3651-minimum-cost-path-with-teleportations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1207,6 +1209,7 @@ The Problems that are solved by me in Leetcode
 | [3643-flip-square-submatrix-vertically](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3665-twisted-mirror-path-count](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
