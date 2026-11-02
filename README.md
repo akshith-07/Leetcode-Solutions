@@ -27,6 +27,7 @@ The Problems that are solved by me in Leetcode
 | [0416-partition-equal-subset-sum](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -1307,6 +1308,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [0242-valid-anagram](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
@@ -1479,6 +1481,7 @@ The Problems that are solved by me in Leetcode
 | [0368-largest-divisible-subset](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/akshith-07/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
