@@ -357,6 +357,7 @@ The Problems that are solved by me in Leetcode
 | [3719-longest-balanced-subarray-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -1588,6 +1589,7 @@ The Problems that are solved by me in Leetcode
 | [3676-smallest-number-with-all-set-bits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
