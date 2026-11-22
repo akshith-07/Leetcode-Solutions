@@ -567,6 +567,7 @@ The Problems that are solved by me in Leetcode
 | [2075-decode-the-slanted-ciphertext](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
