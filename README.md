@@ -382,6 +382,7 @@ The Problems that are solved by me in Leetcode
 | [3863-power-grid-maintenance](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
@@ -718,6 +719,7 @@ The Problems that are solved by me in Leetcode
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -732,6 +734,7 @@ The Problems that are solved by me in Leetcode
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -875,6 +878,7 @@ The Problems that are solved by me in Leetcode
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -1822,6 +1826,7 @@ The Problems that are solved by me in Leetcode
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3934-smallest-unique-subarray](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -2115,4 +2120,8 @@ The Problems that are solved by me in Leetcode
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshith-07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
