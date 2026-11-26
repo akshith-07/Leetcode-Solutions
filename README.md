@@ -1439,6 +1439,7 @@ The Problems that are solved by me in Leetcode
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akshith-07/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-water-bottles-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1578,6 +1579,7 @@ The Problems that are solved by me in Leetcode
 | [3336-water-bottles-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
