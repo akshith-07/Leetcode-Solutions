@@ -384,6 +384,7 @@ The Problems that are solved by me in Leetcode
 | [3886-sum-of-sortable-integers](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3934-smallest-unique-subarray](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -490,6 +491,7 @@ The Problems that are solved by me in Leetcode
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
@@ -966,6 +968,7 @@ The Problems that are solved by me in Leetcode
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/akshith-07/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Counting
 |  |
 | ------- |
